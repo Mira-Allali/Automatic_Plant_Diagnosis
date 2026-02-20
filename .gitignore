@@ -7,13 +7,18 @@ __pycache__/
 *.keras
 saved_model/
 
+# Models
+models/
+
 # Dataset
 data/
-dataset/
 
 # Virtual environment
 venv/
 .env/
+
+# VS Code
+.vscode/
 
 # Jupyter
 .ipynb_checkpoints/
