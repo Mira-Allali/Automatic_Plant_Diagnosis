@@ -1,4 +1,4 @@
-# Automatic Desert Plant Diagnosis  
+# Automatic Plant Diagnosis  
 Deep Learning vs Classical Machine Learning for Plant Disease Classification
 
 ## Abstract
@@ -10,7 +10,7 @@ A Convolutional Neural Network (CNN) is compared against a PCA + Support Vector 
 The study highlights the superiority of deep learning for raw image classification tasks while providing a rigorous baseline using traditional ML methods.
 
 ---
-
+```text
 ## Project Architecture
 Automatic_Desert_Plant_Diagnosis/
 │
@@ -34,7 +34,7 @@ Automatic_Desert_Plant_Diagnosis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 The repository follows a modular and reproducible research-oriented structure.
 
 ---
@@ -51,14 +51,14 @@ https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 After downloading, place it in:
 data/raw/plantvillage_dataset/color/
 
-
+```text
 Expected structure:
 color/
 ├── class_1/
 ├── class_2/
 ├── class_3/
 └── ...
-
+```
 
 ---
 
@@ -109,17 +109,21 @@ This pipeline provides a computational baseline and interpretable feature reduct
 ## Installation
 
 Clone repository:
+```bash
 git clone https://github.com/Mira-Allali/Automatic_Plant_Diagnosis.git
 cd Automatic_Plant_Diagnosis
-
+```
 
 Create environment:
+```bash
 conda create -n plant_cnn python=3.11
 conda activate plant_cnn
+```
 
 Install dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
