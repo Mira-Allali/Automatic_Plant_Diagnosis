@@ -100,4 +100,4 @@ history = model.fit(
 # SAVE MODEL
 # -----------------------------
 
-model.save("models/desert_plant_cnn.h5")
+model.save("models/plant_cnn.h5")
