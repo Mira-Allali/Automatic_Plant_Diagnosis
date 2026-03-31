@@ -262,13 +262,13 @@ Predict on New Image: python predict.py
 ---
 
 ## Author
-
+```text
 Mira Allali — PhD Researcher (Networks & Security)
 Berrached Assia — PhD Researcher (Architecture)
 Cherki Asma Nada — PhD Researcher (English Literature and Civilisation)
 Mechache Hadil Hadjer — PhD Researcher (English Language and Culture)
 Mouharar Ahlam — PhD Researcher (English Language and Culture)
-
+```
 ---
 
 ## License
