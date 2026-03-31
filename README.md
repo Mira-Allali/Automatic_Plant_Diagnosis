@@ -165,7 +165,7 @@ Purpose:
 ### Confusion Matrix
 ![Confusion Matrix](figures/confusion_matrix_normalized.png)
 
-#### Top 10 worst recall
+#### Worst recall
 ![Top 10 worst recall](figures/worst_recall_top10.png)
 
 #### f1 per class
